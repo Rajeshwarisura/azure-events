@@ -1,9 +1,9 @@
 {
-	"name": "CopyPipeline_0s5",
+	"name": "HTTP to blob",
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_0s5",
+				"name": "HTTP to blob",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
