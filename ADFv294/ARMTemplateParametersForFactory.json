@@ -8,8 +8,14 @@
 		"AzureBlobStorage1_connectionString": {
 			"value": ""
 		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
 		"AzureSqlDatabase1_connectionString": {
 			"value": ""
+		},
+		"HttpServer1_properties_typeProperties_url": {
+			"value": "https://cdn.rebrickable.com/media/downloads/sets.csv.gz"
 		}
 	}
 }
