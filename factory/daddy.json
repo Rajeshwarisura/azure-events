@@ -1,0 +1,9 @@
+{
+	"name": "daddy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b06bf41d-698d-4d9b-8030-bfe6c6966046",
+		"tenantId": "b3d6a32e-7c0d-43ba-9b29-8bbb25397957"
+	}
+}
