@@ -1,0 +1,9 @@
+{
+	"name": "amazon4",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb0d7527-cef2-44e9-9d43-1f68da8fb61f",
+		"tenantId": "b3d6a32e-7c0d-43ba-9b29-8bbb25397957"
+	}
+}
